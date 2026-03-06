@@ -1,5 +1,7 @@
 # Smart Spend Tracker
 
+Team name:Elite coders
+
 AI-powered expense tracker that helps users track expenses,
 analyze spending patterns, and manage budgets efficiently.
 
